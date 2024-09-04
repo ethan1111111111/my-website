@@ -1,0 +1,35 @@
+h1, h2, p {
+	text-align: center;
+}
+body {
+	background-color: #f4d03f;
+}
+.intro {
+	width = 80%;
+	background-color: yellow;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: sans-serif
+}
+main {
+	text-align: center;
+}
+
+.bottom-line{
+	width: auto;
+	border-color: black;
+	background-color: black;
+	
+}
+
+footer {
+	text-align: center;
+}
+
+a:visited{
+	color: blue;
+}
+a:hover {
+	color: black
+}
+
